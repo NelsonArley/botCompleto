@@ -1,0 +1,89 @@
+[
+    {
+        "keywords":  [
+            "hola",
+            "hola!",
+            "ola",
+            "ole",
+            "inicio",
+            "welcome",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "me dieron este número",
+            "venden a crédito",
+            "quisiera saber si venden",
+            "necesito saber"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "1"       
+        ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":  [
+            
+        ],
+        "key": "STEP_2_1"
+    },
+    {
+        "keywords":  [
+            
+        ],
+        "key": "STEP_2_2"
+    },
+    {
+        "keywords":  [
+            
+        ],
+        "key": "STEP_2_3"
+    },
+    {
+        "keywords":  [
+            
+        ],
+        "key": "STEP_2_4"
+    },
+    {
+        "keywords":  [
+            "2"
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords":  [
+            "muchas gracias",
+            "ok",
+            "gracias",
+            "vale gracias"
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords":  [
+            "3"
+        ],
+        "key": "STEP_5"
+    },
+    {
+        "keywords":  [
+            "4"
+        ],
+        "key": "STEP_6"
+    },
+    {
+        "keywords":  [
+            "5"
+        ],
+        "key": "STEP_7"
+    },
+    {
+        "keywords":  [
+            
+        ],
+        "key": "STEP_8"
+    }
+]

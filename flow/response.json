@@ -1,0 +1,142 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "Prueba escribiendo *hola* para proceder con tu solicitud \n\n",
+            "Recuerda que tambien resolveremos tus dudas e inquietudes en nuestra pagina oficial:https://www.cireem.com/"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+            "El flujo ha finalizado \n",
+            "pero puedes ver todo el codigo de este \n",
+            "repositorio en https://github.com/leifermendez/bot-whatsapp.git"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1":{
+        "replyMessage":[
+            "Gracias por comunicarte con *CIREEM SAS* 🏥 ¿Cómo podemos ayudarte?",
+            "Para Mas Información, Digita:\n\n",
+            
+            "*-1* para citas de Reumatología o Procedimientos\n",
+            "*-2* para procedimientos en sala de infusión\n",
+            "*-3* para comunicarte con nuestros Asesores"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2":{
+        "replyMessage":[
+            "Perfecto, puedes ingresar al siguiente link y agenda o consulta tu cita 🙂\n",
+
+            "https://www.cireem.com/booking-calendar/consulta-reumatolog%C3%ADa-o-procedimientos?referral=service_list_widget\n\n",
+            
+            "Puedes Ingresar a Nuestra Pagina Oficial Dando clik aqui\n",
+            "https://www.cireem.com/"
+        ],
+        "media":"https://static.wixstatic.com/media/693c00_e503023cfd104233bf12805e2ac79ac7~mv2.png/v1/fill/w_268,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-fondo-claro.png\n",
+        "trigger":null
+    },
+    "STEP_2_1":{
+        "replyMessage":[
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_2":{
+        "replyMessage":[
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3":{
+        "replyMessage":[
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_4":{
+        "replyMessage":[
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_3":{
+        "replyMessage":[
+            "Para Agendamientos De Sala De Infusión, puedes ingresar al siguiente link y agenda o consulta tu cita 🙂\n",
+
+            "https://www.cireem.com/formulario-sala-de-infusion\n\n",
+            
+            "Puedes Ingresar a Nuestra Pagina Oficial Dando clik aqui:\n",
+            "https://www.cireem.com/"
+        ],
+        "media":"https://static.wixstatic.com/media/693c00_e503023cfd104233bf12805e2ac79ac7~mv2.png/v1/fill/w_268,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-fondo-claro.png",
+        "trigger":null
+    },
+    "STEP_4":{
+        "replyMessage":[
+            "Gracias a ti por comunicarte con nosotros 😁😉! \n"
+        ],
+        "media":"https://smfm.mx/wp-content/uploads/2020/04/Gracias-1.png",
+        "trigger":null
+    },
+    "STEP_5":{
+        "replyMessage":[
+            "Para comunicarte con nuestros asesores Digita:\n\n",
+
+            "*-4* para reumatologia:\n",
+            "*-5* para sala de infusion: "
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6":{
+        "replyMessage":[
+            "Para Comunicarte con nuestros asesores de reumatologia ingresa a los siguientes links:\n\n",
+
+            "https://api.whatsapp.com/send/?phone=573108609027&text&type=phone_number&app_absent=0\n",
+            
+            "https://api.whatsapp.com/send/?phone=573213564627&text&type=phone_number&app_absent=0\n\n",
+            
+            "Tambien Puedes Enviar un mensaje al siguiente correo:\n",
+            "Mail: consulta@cireem.com.co\n\n",
+            
+            "O puedes marcar a los fijos:\n",
+            "Fijo: (60+1) 432 6282 O (60+1) 485 3675"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_7":{
+        "replyMessage":[
+            "Para Comunicarte con nuestros asesores de sala de Infusión llama o escribe a los siguientes numeros:\n\n",
+
+            "WhatsApp: (+57) 316 467 9136\n",
+            
+            "Celular: (+57) 321 377 0197 \n\n",
+            
+            "Tambien Puedes Enviar un mensaje al siguiente correo:\n",
+            "Mail 1:  enfermeria@cireem.com.co\n",
+            "Mail 2:  formulasenfermeria@gmail.com\n\n",
+            
+            "O puedes marcar a los fijos:\n",
+            "Fijo: (60+1) 432 6032, (60+1) 485 3675"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_8":{
+        "replyMessage":[
+            ""
+        ],
+        "media":null,
+        "trigger":null
+    }
+}
